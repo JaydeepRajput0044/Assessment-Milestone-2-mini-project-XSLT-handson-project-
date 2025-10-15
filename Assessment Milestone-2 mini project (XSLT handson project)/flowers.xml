@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FlowerDepot>
+    <flower>
+        <name>Rose</name>
+        <color>Red</color>
+        <price>10</price>
+        <availability>Yes</availability>
+    </flower>
+    <flower>
+        <name>Carnation</name>
+        <color>Pink</color>
+        <price>8</price>
+        <availability>No</availability>
+    </flower>
+    <flower>
+        <name>Daisy</name>
+        <color>White</color>
+        <price>5</price>
+        <availability>Yes</availability>
+    </flower>
+</FlowerDepot>
